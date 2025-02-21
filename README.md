@@ -16,7 +16,7 @@
 ### Love to code
 
 <div style="display:flex">
-  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
@@ -91,7 +91,7 @@
 
 
 ### About
-I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers community. I am working on web & mobile application development more than 8 years. Research & development, teaching, community leading is the top most noticeable skill inside me.
+I am “Ueno Saburo” the leading popular face among Japanese programmers community. I am working on web & mobile application development more than 8 years. Research & development, teaching, community leading is the top most noticeable skill inside me.
 
 ### Working Area
 
