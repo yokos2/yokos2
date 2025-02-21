@@ -17,19 +17,14 @@
 
 <div style="display:flex">
   <img alt="" height="60px" width="60px"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="https://reactjs.org/"/>
+  <img alt="" height="60px" width="60px"   src="https://expressjs.com"/>
+  <img alt="" height="60px" width="60px"   src="https://www.mongodb.com/"/>
+  <img alt="" height="60px" width="60px"   src="https://www.php.net"/>
+  <img alt="" height="60px" width="60px"   src="https://www.postgresql.org"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="https://nodejs.org"/>
+
 </div>
 
 ### Favourite Tools
